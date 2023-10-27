@@ -1,4 +1,4 @@
-# DavesMicLimiter
+# Daves Mic Volume Override
 simple tool to override applications (Teams i'm looking at you) that keep trying to turn up the mic gain, and picking up background voices.
 
 it just gets a call when teh volume changes and resets it... note if you ran this twice it would probably use a lot of cpu moving hte volume up and down..
